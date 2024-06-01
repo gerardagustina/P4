@@ -130,9 +130,11 @@ Complete el código necesario para entrenar modelos GMM.
   del modelado GMM para diferenciar las señales de uno y otro.
 
   -Gráfica del locutor correcto (SES002):
+
   ![alt text](image-11.png)
 
   -Gráfica del locutor erróneo (SES124):
+
   ![alt text](image-12.png)
 
   Se puede ver como para el locutor correcto la forma de la función de densidad de probabilidad de las GMM se adapta mas a las muestras que para un locutor erróneo.
@@ -164,12 +166,15 @@ Complete el código necesario para realizar verificación del locutor y optimice
   de reconocimiento.
 
   -LP
+
   ![alt text](image-7.png)
 
   -LPCC
+
   ![alt text](image-8.png)
 
   -MFCC
+  
   ![alt text](image-9.png)
  
 ### Test final
